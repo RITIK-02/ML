@@ -62,7 +62,7 @@ for i, j in enumerate(np.unique(y_set)):
     plt.scatter(x_set[y_set == j, 0], x_set[y_set == j, 1],
                 c = ListedColormap(('red', 'green'))(i), label = j)
 plt.title('KNN Classification')
-plt.xlabel('DMV_Test_1')
-plt.ylabel('DMV_Test_2')
+plt.xlabel('Shoe Size')
+plt.ylabel('Height')
 plt.legend()
 plt.show()'''

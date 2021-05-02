@@ -6,6 +6,7 @@ Python packages required:
 3. Pandas
 4. Mlxtend (in knn_raw.py)
 5. Sklearn
+
 All these packages can be found in PyPi
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 knn.py

@@ -12,13 +12,14 @@ All these packages can be found in PyPi
 knn.py
 
 This is a Python program that uses sci-kit KNearestNeighbour algorithm to first train the model and then predict results.
+The plotting of graph takes some time please be patient and also some Matplotlib warnings would arise (I am working on fixing it) but atleast the graph would be shown.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 knn_raw.py
 
 This Python program builds KNN algorithm from scratch implementing the distance function to be euclidean distance.
-
+Here graph is plotted using different method.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 train.csv
 

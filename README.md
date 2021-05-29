@@ -19,6 +19,6 @@ The plotting of graph takes some time please be patient.
 
 iris.data
 
-Iris Dataset for training nad testing the model
+Iris Dataset for training and testing the model.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
